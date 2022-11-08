@@ -107,7 +107,7 @@ h1.name {
 .job-title {
 	vertical-align: top;
 	background-color: #f0c198;
-	color: #eaa76c;
+	color: #bb8556;
 	font-weight: 600;
 	margin-top: 5px;
 	margin-left: 20px;
@@ -118,7 +118,7 @@ h1.name {
 
 .email {
 	display: block;
-	font-size: 24px;
+	font-size: 30px;
 	font-weight: 300;
 	color: #81899C;
 	margin-top: 10px;
