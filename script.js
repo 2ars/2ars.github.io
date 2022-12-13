@@ -1,5 +1,5 @@
 // variabler String der die Zitate direkt über die API von quotable.io lädt
-const RANDOM_QUOTE_API_URL = 'http://api.quotable.io/random'
+const RANDOM_QUOTE_API_URL = 'https://api.quotable.io/random'
 
 // Verknüpfung der Html Elemente (Id's) mit den Variablen für JS
 const quoteDisplayElement = document.getElementById('quoteDisplay')
