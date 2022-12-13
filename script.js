@@ -97,4 +97,3 @@ function getTimerTime() {
 
 // Aufrufen des ersten Zitats:
 renderNewQuote()
-
